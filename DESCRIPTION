@@ -10,7 +10,9 @@ Description: Describe the workflow for annotating human genes with Pfam data.
 License: file LICENSE
 Encoding: UTF-8
 LazyData: true
-Suggests:
-    testthat
+Suggests: readr,
+          BiocManager,
+          biomaRt,
+          dplyr
 RoxygenNote: 6.1.1
 
