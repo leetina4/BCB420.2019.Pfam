@@ -1,0 +1,69 @@
+pfam_domain	description
+PF00071	ATPase family associated with various cellular activities (AAA)
+PF02991	Helix-loop-helix DNA-binding domain
+PF00957	Hsp20/alpha crystallin family
+PF00637	Ras family
+PF00122	RNA recognition motif. (a.k.a. RRM, RBD, or RNP domain)
+PF00454	E1-E2 ATPase
+PF00520	Ubiquitin-conjugating enzyme
+PF00689	Arrestin (or S-antigen), N-terminal domain
+PF00690	WD domain, G-beta repeat
+PF01299	Phosphatidylinositol 3- and 4-kinase
+PF04111	FHA domain
+PF08282	Ion transport protein
+PF10186	Phosphoinositide 3-kinase family, accessory domain (PIK domain)
+PF13246	Region in Clathrin and VPS
+PF13774	Inhibitor of Apoptosis domain
+PF00004	Cation transporting ATPase, C-terminus
+PF00010	Cation transporter/ATPase, N-terminus
+PF00011	Phosphoinositide 3-kinase C2
+PF00076	Transglutaminase family
+PF00179	Transglutaminase family, C-terminal ig like domain
+PF00339	Synaptobrevin
+PF00400	Sec1 family
+PF00498	Oxysterol-binding protein 
+PF00613	Lysosome-associated membrane glycoprotein (Lamp)
+PF00653	Transglutaminase-like superfamily
+PF00792	Cell division protein 48 (CDC48), N-terminal domain
+PF00868	Arrestin (or S-antigen), C-terminal domain
+PF00927	RUN domain
+PF00995	Cell division protein 48 (CDC48), domain 2
+PF01237	HEAT repeat
+PF01841	Autophagy protein Atg8 ubiquitin like
+PF02359	Endonuclease/Exonuclease/phosphatase family
+PF02752	Apg6 BARA domain
+PF02759	Vps16, C-terminal region
+PF02933	Vps16, N-terminal region
+PF02985	Vesicle transport v-SNARE protein N-terminus
+PF03372	Interferon-inducible GTPase (IIGP)
+PF04840	Pep3/Vps18/deep orange family
+PF04841	p25-alpha 
+PF05008	SNARE domain
+PF05049	GCN5-like protein 1 (GCN5L1)
+PF05131	Protein of unknown function (DUF1211)
+PF05517	Calcium binding and coiled-coil domain (CALCOCO1) like
+PF05739	haloacid dehalogenase-like hydrolase
+PF06320	Syntaxin 6, N-terminal
+PF06736	BLOC-1-related complex sub-unit 6
+PF07888	Tumour suppressor protein
+PF09177	BLOC-1-related complex sub-unit 8
+PF10157	Vacuolar sorting 38 and autophagy-related subunit 14
+PF10158	Uncharacterized conserved protein
+PF10167	NF-kappa-B essential modulator NEMO
+PF10241	Domain of unknown function (DUF3371)
+PF11577	Snare region anchored in the vesicle membrane C-terminus
+PF11851	Baculoviral IAP repeat-containing protein 6  
+PF12352	Vacuolar protein sorting protein 11 C terminal
+PF12356	Ankyrin repeats (3 copies)
+PF12451	Cation transport ATPase (P-type)
+PF12796	Regulated-SNARE-like domain
+PF13857	Ankyrin repeats (many copies)
+PF13901	Putative zinc-RING and/or ribbon
+PF13923	Zinc finger, C3HC4 type (RING finger)
+PF14538	Raptor N-terminal CASPase like domain
+PF14712	Snapin/Pallidin
+PF14938	Soluble NSF attachment protein, SNAP
+PF15285	Beclin-1 BH3 domain, Bcl-2-interacting
+PF15951	MITF/TFEB/TFEC/TFE3 N-terminus
+PF16088	BLOC-1-related complex sub-unit 7
+PF16516	Leucine zipper of domain CC2 of NEMO, NF-kappa-B essential modulator
