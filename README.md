@@ -651,7 +651,7 @@ myXset <- read.delim(system.file("extdata",
 
 # 7 References
 
-Example code for biomaRt, for generating a mapping tool, and for making plots was taken from the [BCB420.2019.STRING project](https://github.com/hyginn/BCB420.2019.STRING) (Steipe, 2019).
+Example code for biomaRt, for generating a mapping tool, and for making plots was taken from the [BCB420.2019.STRING project](https://github.com/hyginn/BCB420.2019.STRING) (Steipe, 2019). The functionality of toBrowser.R is taken from [BCB420-2019-resources](https://github.com/hyginn/BCB420-2019-resources).
 
 &nbsp;
 
