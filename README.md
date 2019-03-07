@@ -131,9 +131,10 @@ if (! requireNamespace("biomaRt", quietly = TRUE)) {
 **`dplyr`** is a convenient package to transform and summarize tabular data with rows and columns. It contains a set of functions that perform common data manipulation operations such as filtering roles, re-ordering rows and summarizing data.;
 
 ```R
-if (! requireNamespace("igraph")) {
-  install.packages("igraph")
+if (! requireNamespace("dplyr")) {
+  install.packages("dplyr")
 }
+library(dplyr)
 ```
 
 &nbsp;
