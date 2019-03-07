@@ -393,7 +393,7 @@ load(file = file.path("inst", "extdata", "sym2enst.RData"))
 
 &nbsp;
 
-# 5 Annotating gene with STRING Data
+# 5 Annotating gene with Pfam Data
 
 Given our mapping tool, we can now annotate gene sets with Pfam data. First we will take a look at the entire Pfam data. Next we could annotate our example set.
 
